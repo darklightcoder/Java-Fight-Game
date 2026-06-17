@@ -1,3 +1,6 @@
+
+<img src="https://github.com/darklightcoder/Java-Fight-Game/blob/main/screen.jpg" />
+
 # Java-Fight-Game
 Just a simple fighting game prototype made using Gemini. Testing how fast you can develop a 2d game with AI.
 
